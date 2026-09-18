@@ -1,2 +1,4 @@
 *.bib
 *.enw
+endnote_library/
+endnote_library/*
